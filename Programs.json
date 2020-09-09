@@ -1,0 +1,16 @@
+{
+  "Programs":[
+    {
+      "Title": "Chrome",
+      "FilePath": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+      "ArgumentList": "--incognito",
+      "IsSelected": true
+    },
+    {
+      "Title": "Outlook",
+      "FilePath": "C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE",
+      "ArgumentList": "",
+      "IsSelected": true
+    }
+  ]
+}
